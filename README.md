@@ -14,5 +14,6 @@ A minimal iOS weather app implementing weather API built with Swift.
   <img src="https://img.shields.io/badge/Swift-orange">
   <br>
   <br>
+  <img width="600" height="2622" alt="Simulator Screenshot - iPhone 17 - 2026-03-05 at 01 23 49" src="https://github.com/user-attachments/assets/28732665-9feb-4915-963d-5d4062ad0d58" />
 </p>
 
