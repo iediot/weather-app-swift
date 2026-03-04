@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Weather.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>48AA75874FD565B37BA7361ED1E332A14BF57CFD</string>
+				<key>dateExpires</key>
+				<string>28.02.2027</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>83DB5W93C4.iediot.Weather</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>83DB5W93C4</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Weather.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7cf1dc54-f9d1-4f39-ab19-c2abae5cbe06</string>
+				<key>dateExpires</key>
+				<string>11.03.2026</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: iediot.Weather</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>83DB5W93C4</string>
+				<key>name</key>
+				<string>Tăbîrcă Nicolae-Eduard</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

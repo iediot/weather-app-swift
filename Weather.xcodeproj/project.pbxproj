@@ -16,6 +16,11 @@
 			path = Weather;
 			sourceTree = "<group>";
 		};
+		468DA7E72F58D48D00054B13 /* Assets */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Assets;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -34,6 +39,7 @@
 			children = (
 				46543F592F58BAC90030028F /* Weather */,
 				46543F582F58BAC90030028F /* Products */,
+				468DA7E72F58D48D00054B13 /* Assets */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				46543F592F58BAC90030028F /* Weather */,
+				468DA7E72F58D48D00054B13 /* Assets */,
 			);
 			name = Weather;
 			packageProductDependencies = (

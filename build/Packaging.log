@@ -1,0 +1,223 @@
+2026-03-04 23:14:09 +0000 [MT] Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0xbbe6c4600; archive(resolved)="<IDEArchive: 0xbbe5f74f0>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team(resolved)="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0xbbe6c4600; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionProcessingPipelineContext: 0xbbe6c5e00; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75e580; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75d680; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75d400; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75d180; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75cf00; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75cc80; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75ca00; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="<IDEProvisioningBasicTeam: 0xbbfd1c580; teamID='83DB5W93C4', teamName='Tăbîrcă Nicolae-Eduard'>">
+	<IDEDistributionContext: 0xbbe75c780; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="(null)">
+	<IDEDistributionContext: 0xbbe75c500; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="(null)">
+	<IDEDistributionContext: 0xbbe75c280; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="(null)">
+	<IDEDistributionContext: 0xbbe75c000; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0xbbf663fa0>", team="(null)">
+	<IDEDistributionContext: 0x10366a6f0; archive = "<IDEArchive: 0xbbe5f74f0>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0xbbe6c4600>
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionCreateDestRootStep
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionCopyItemStep
+2026-03-04 23:14:09 +0000 [MT] Running /usr/bin/ditto '-V' '/Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app' '/var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Root/Payload/Weather.app'
+2026-03-04 23:14:09 +0000  >>> Copying /Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app 
+2026-03-04 23:14:09 +0000  copying file ./_CodeSignature/CodeResources ... 
+2026-03-04 23:14:09 +0000  8297 bytes for ./_CodeSignature/CodeResources
+2026-03-04 23:14:09 +0000  copying file ./icons8-partly-cloudy-day-100.png ... 
+2026-03-04 23:14:09 +0000  5117 bytes for ./icons8-partly-cloudy-day-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-sun-100.png ... 
+2026-03-04 23:14:09 +0000  6732 bytes for ./icons8-sun-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-spring-100.png ... 
+2026-03-04 23:14:09 +0000  5996 bytes for ./icons8-spring-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-afternoon-100.png ... 
+2026-03-04 23:14:09 +0000  2347 bytes for ./icons8-afternoon-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-wind-100.png ... 
+2026-03-04 23:14:09 +0000  4872 bytes for ./icons8-wind-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-winter-100.png ... 
+2026-03-04 23:14:09 +0000  6370 bytes for ./icons8-winter-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-summer-100.png ... 
+2026-03-04 23:14:09 +0000  6507 bytes for ./icons8-summer-100.png
+2026-03-04 23:14:09 +0000  copying file ./AppIcon60x60@2x.png ... 
+2026-03-04 23:14:09 +0000  15016 bytes for ./AppIcon60x60@2x.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-sunset-100.png ... 
+2026-03-04 23:14:09 +0000  5060 bytes for ./icons8-sunset-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-sunrise-100.png ... 
+2026-03-04 23:14:09 +0000  5002 bytes for ./icons8-sunrise-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-snow-100.png ... 
+2026-03-04 23:14:09 +0000  4296 bytes for ./icons8-snow-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-moon-and-stars-100.png ... 
+2026-03-04 23:14:09 +0000  5719 bytes for ./icons8-moon-and-stars-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-stormy-weather-100.png ... 
+2026-03-04 23:14:09 +0000  6337 bytes for ./icons8-stormy-weather-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-haze-100.png ... 
+2026-03-04 23:14:09 +0000  5569 bytes for ./icons8-haze-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-storm-100.png ... 
+2026-03-04 23:14:09 +0000  5306 bytes for ./icons8-storm-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-autumn-100.png ... 
+2026-03-04 23:14:09 +0000  6979 bytes for ./icons8-autumn-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-night-100 2.png ... 
+2026-03-04 23:14:09 +0000  2330 bytes for ./icons8-night-100 2.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-clouds-100.png ... 
+2026-03-04 23:14:09 +0000  4488 bytes for ./icons8-clouds-100.png
+2026-03-04 23:14:09 +0000  copying file ./Assets.car ... 
+2026-03-04 23:14:09 +0000  3909992 bytes for ./Assets.car
+2026-03-04 23:14:09 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+23074 bytes for ./AppIcon76x76@2x~ipad.png
+copying file ./icons8-rain-moon-100.png ... 
+2026-03-04 23:14:09 +0000  14220 bytes for ./icons8-rain-moon-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-night-100.png ... 
+2026-03-04 23:14:09 +0000  5349 bytes for ./icons8-night-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-evening-100.png ... 
+2026-03-04 23:14:09 +0000  2612 bytes for ./icons8-evening-100.png
+2026-03-04 23:14:09 +0000  copying file ./Weather ... 
+2026-03-04 23:14:09 +0000  146048 bytes for ./Weather
+2026-03-04 23:14:09 +0000  copying file ./icons8-rain-100.png ... 
+2026-03-04 23:14:09 +0000  4582 bytes for ./icons8-rain-100.png
+2026-03-04 23:14:09 +0000  copying file ./embedded.mobileprovision ... 
+2026-03-04 23:14:09 +0000  16366 bytes for ./embedded.mobileprovision
+2026-03-04 23:14:09 +0000  copying file ./Info.plist ... 
+2026-03-04 23:14:09 +0000  1467 bytes for ./Info.plist
+2026-03-04 23:14:09 +0000  copying file ./PkgInfo ... 
+2026-03-04 23:14:09 +0000  8 bytes for ./PkgInfo
+2026-03-04 23:14:09 +0000  copying file ./icons8-rain-cloud-100.png ... 
+2026-03-04 23:14:09 +0000  6025 bytes for ./icons8-rain-cloud-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-morning-100.png ... 
+2026-03-04 23:14:09 +0000  2799 bytes for ./icons8-morning-100.png
+2026-03-04 23:14:09 +0000  copying file ./icons8-fog-100.png ... 
+2026-03-04 23:14:09 +0000  4660 bytes for ./icons8-fog-100.png
+2026-03-04 23:14:09 +0000 [MT] /usr/bin/ditto exited with 0
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionEmbedProfileStep
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionInfoPlistStep
+2026-03-04 23:14:09 +0000 [MT] Skipping step: IDEDistributionInfoPlistStep because it said so
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionAppThinningPlistStep
+2026-03-04 23:14:09 +0000 [MT] Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionSymbolsStep
+2026-03-04 23:14:09 +0000 [MT] Skipping step: IDEDistributionSymbolsStep because it said so
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionAppThinningStep
+2026-03-04 23:14:09 +0000 [MT] Skipping step: IDEDistributionAppThinningStep because it said so
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionArchThinningStep
+2026-03-04 23:14:09 +0000 [MT] Archs to thin for item /Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app are []
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionODRStep
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionStripXattrsStep
+2026-03-04 23:14:09 +0000 [MT] Skipping stripping extended attributes because the codesign step will strip them.
+2026-03-04 23:14:09 +0000 [MT] Processing step: IDEDistributionCodesignStep
+2026-03-04 23:14:09 +0000 [MT] Entitlements for <IDEDistributionItem: 0xbbfc6dc80; bundleID='iediot.Weather', path='<DVTFilePath:0xbbfba79c0:'/Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xbbfc6dc20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xbbe7b4d80; name='Apple Development: eduardnicolae092@gmail.com (Y49ZS9K5UL)', hash='48AA75874FD565B37BA7361ED1E332A14BF57CFD', serialNumber='7982CE3890DFE704C198DF0104287026', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2026-02-28 09:04:22 +0000''>', entitlements='{
+    "application-identifier" = "83DB5W93C4.iediot.Weather";
+    "com.apple.developer.team-identifier" = 83DB5W93C4;
+    "get-task-allow" = 1;
+}', teamID='83DB5W93C4', identifier='iediot.Weather', executablePath='<DVTFilePath:0xbbfc6d560:'/Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app/Weather'>', hardenedRuntime='1'>'>: {
+    "application-identifier" = "83DB5W93C4.iediot.Weather";
+    "com.apple.developer.team-identifier" = 83DB5W93C4;
+    "get-task-allow" = 1;
+}
+2026-03-04 23:14:09 +0000 [MT] Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2026-03-04 23:14:09 +0000 [MT] Entitlements for <IDEDistributionItem: 0xbbfc6dc80; bundleID='iediot.Weather', path='<DVTFilePath:0xbbfba79c0:'/Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xbbfc6dc20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xbbe7b4000; name='Apple Development: eduardnicolae092@gmail.com (Y49ZS9K5UL)', hash='48AA75874FD565B37BA7361ED1E332A14BF57CFD', serialNumber='7982CE3890DFE704C198DF0104287026', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2026-02-28 09:04:22 +0000''>', entitlements='{
+    "application-identifier" = "83DB5W93C4.iediot.Weather";
+    "com.apple.developer.team-identifier" = 83DB5W93C4;
+    "get-task-allow" = 1;
+}', teamID='83DB5W93C4', identifier='iediot.Weather', executablePath='<DVTFilePath:0xbbfc6d560:'/Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app/Weather'>', hardenedRuntime='1'>'> are: {
+    "application-identifier" = "83DB5W93C4.iediot.Weather";
+    "com.apple.developer.team-identifier" = 83DB5W93C4;
+    "get-task-allow" = 1;
+}
+2026-03-04 23:14:09 +0000 [MT] Writing entitlements for <IDEDistributionItem: 0xbbfc6dc80; bundleID='iediot.Weather', path='<DVTFilePath:0xbbfba79c0:'/Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xbbfc6dc20; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xbbe7b4000; name='Apple Development: eduardnicolae092@gmail.com (Y49ZS9K5UL)', hash='48AA75874FD565B37BA7361ED1E332A14BF57CFD', serialNumber='7982CE3890DFE704C198DF0104287026', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2026-02-28 09:04:22 +0000''>', entitlements='{
+    "application-identifier" = "83DB5W93C4.iediot.Weather";
+    "com.apple.developer.team-identifier" = 83DB5W93C4;
+    "get-task-allow" = 1;
+}', teamID='83DB5W93C4', identifier='iediot.Weather', executablePath='<DVTFilePath:0xbbfc6d560:'/Users/iediot/XCode/Weather/Weather.xcarchive/Products/Applications/Weather.app/Weather'>', hardenedRuntime='1'>'> to: /var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/entitlements~~~AwpozW
+2026-03-04 23:14:09 +0000 [MT] invoking codesign: <NSConcreteTask: 0xbbe7b0eb0; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    48AA75874FD565B37BA7361ED1E332A14BF57CFD,
+    "--entitlements",
+    "/var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/entitlements~~~AwpozW",
+    "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Root/Payload/Weather.app"
+)'>
+2026-03-04 23:14:15 +0000 [MT] codesign output: /var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Root/Payload/Weather.app: replacing existing signature
+/var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Root/Payload/Weather.app: signed app bundle with Mach-O thin (arm64) [iediot.Weather]
+2026-03-04 23:14:15 +0000 [MT] Processing step: IDEDistributionZipODRItemStep
+2026-03-04 23:14:15 +0000 [MT] Skipping step: IDEDistributionZipODRItemStep because it said so
+2026-03-04 23:14:15 +0000 [MT] Processing step: IDEDistributionCreateIPAStep
+2026-03-04 23:14:15 +0000 [MT] Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Root' '/var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Packages/Weather.ipa'
+2026-03-04 23:14:15 +0000  >>> Copying /var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Root 
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/_CodeSignature/CodeResources ... 
+2026-03-04 23:14:15 +0000  8297 bytes for ./Payload/Weather.app/_CodeSignature/CodeResources
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-partly-cloudy-day-100.png ... 
+2026-03-04 23:14:15 +0000  5117 bytes for ./Payload/Weather.app/icons8-partly-cloudy-day-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-sun-100.png ... 
+2026-03-04 23:14:15 +0000  6732 bytes for ./Payload/Weather.app/icons8-sun-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-spring-100.png ... 
+2026-03-04 23:14:15 +0000  5996 bytes for ./Payload/Weather.app/icons8-spring-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-afternoon-100.png ... 
+2026-03-04 23:14:15 +0000  2347 bytes for ./Payload/Weather.app/icons8-afternoon-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-wind-100.png ... 
+2026-03-04 23:14:15 +0000  4872 bytes for ./Payload/Weather.app/icons8-wind-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-winter-100.png ... 
+2026-03-04 23:14:15 +0000  6370 bytes for ./Payload/Weather.app/icons8-winter-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-summer-100.png ... 
+2026-03-04 23:14:15 +0000  6507 bytes for ./Payload/Weather.app/icons8-summer-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/AppIcon60x60@2x.png ... 
+2026-03-04 23:14:15 +0000  15016 bytes for ./Payload/Weather.app/AppIcon60x60@2x.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-sunset-100.png ... 
+2026-03-04 23:14:15 +0000  5060 bytes for ./Payload/Weather.app/icons8-sunset-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-sunrise-100.png ... 
+2026-03-04 23:14:15 +0000  5002 bytes for ./Payload/Weather.app/icons8-sunrise-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-snow-100.png ... 
+2026-03-04 23:14:15 +0000  4296 bytes for ./Payload/Weather.app/icons8-snow-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-moon-and-stars-100.png ... 
+2026-03-04 23:14:15 +0000  5719 bytes for ./Payload/Weather.app/icons8-moon-and-stars-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-stormy-weather-100.png ... 
+2026-03-04 23:14:15 +0000  6337 bytes for ./Payload/Weather.app/icons8-stormy-weather-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-haze-100.png ... 
+2026-03-04 23:14:15 +0000  5569 bytes for ./Payload/Weather.app/icons8-haze-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-storm-100.png ... 
+2026-03-04 23:14:15 +0000  5306 bytes for ./Payload/Weather.app/icons8-storm-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-autumn-100.png ... 
+2026-03-04 23:14:15 +0000  6979 bytes for ./Payload/Weather.app/icons8-autumn-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-night-100 2.png ... 
+2026-03-04 23:14:15 +0000  2330 bytes for ./Payload/Weather.app/icons8-night-100 2.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-clouds-100.png ... 
+2026-03-04 23:14:15 +0000  4488 bytes for ./Payload/Weather.app/icons8-clouds-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/Assets.car ... 
+2026-03-04 23:14:15 +0000  3909992 bytes for ./Payload/Weather.app/Assets.car
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/AppIcon76x76@2x~ipad.png ... 
+2026-03-04 23:14:15 +0000  23074 bytes for ./Payload/Weather.app/AppIcon76x76@2x~ipad.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-rain-moon-100.png ... 
+2026-03-04 23:14:15 +0000  14220 bytes for ./Payload/Weather.app/icons8-rain-moon-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-night-100.png ... 
+2026-03-04 23:14:15 +0000  5349 bytes for ./Payload/Weather.app/icons8-night-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-evening-100.png ... 
+2026-03-04 23:14:15 +0000  2612 bytes for ./Payload/Weather.app/icons8-evening-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/Weather ... 
+2026-03-04 23:14:15 +0000  146048 bytes for ./Payload/Weather.app/Weather
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-rain-100.png ... 
+2026-03-04 23:14:15 +0000  4582 bytes for ./Payload/Weather.app/icons8-rain-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/embedded.mobileprovision ... 
+2026-03-04 23:14:15 +0000  16366 bytes for ./Payload/Weather.app/embedded.mobileprovision
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/Info.plist ... 
+2026-03-04 23:14:15 +0000  1467 bytes for ./Payload/Weather.app/Info.plist
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/PkgInfo ... 
+2026-03-04 23:14:15 +0000  8 bytes for ./Payload/Weather.app/PkgInfo
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-rain-cloud-100.png ... 
+2026-03-04 23:14:15 +0000  6025 bytes for ./Payload/Weather.app/icons8-rain-cloud-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-morning-100.png ... 
+2026-03-04 23:14:15 +0000  2799 bytes for ./Payload/Weather.app/icons8-morning-100.png
+2026-03-04 23:14:15 +0000  copying file ./Payload/Weather.app/icons8-fog-100.png ... 
+2026-03-04 23:14:15 +0000  4660 bytes for ./Payload/Weather.app/icons8-fog-100.png
+2026-03-04 23:14:15 +0000 [MT] /usr/bin/ditto exited with 0
+2026-03-04 23:14:15 +0000 [MT] Processing step: IDEDistributionAppStoreInformationStep
+2026-03-04 23:14:15 +0000 [MT] Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2026-03-04 23:14:15 +0000 [MT] Processing step: IDEDistributionGenerateProcessedDistributionItems
+2026-03-04 23:14:15 +0000 [MT] IDEDistributionItem init <DVTFilePath:0xbbf388300:'/var/folders/0p/z67039js3y58lqmyr078vg6r0000gn/T/XcodeDistPipeline.~~~HpWPYR/Root/Payload/Weather.app'>
+2026-03-04 23:14:15 +0000 [MT] Processing step: IDEDistributionCreateManifestStep
