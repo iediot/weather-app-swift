@@ -139,12 +139,18 @@ struct ContentView: View {
 
                         HStack(spacing: 6) {
 
-                            Image(night ? "NightIcon" : "DayIcon")
+                            let time = timeOfDay(
+                                current: Int(Date().timeIntervalSince1970),
+                                sunrise: weather.sys.sunrise,
+                                sunset: weather.sys.sunset
+                            )
+
+                            Image("\(time)Icon")
                                 .resizable()
                                 .scaledToFit()
                                 .frame(width: 24, height: 24)
 
-                            Text(night ? "Night" : "Day")
+                            Text(time)
                                 .font(.headline)
                                 .foregroundColor(.white.opacity(0.8))
                         }

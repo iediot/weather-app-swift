@@ -34,9 +34,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>7cf1dc54-f9d1-4f39-ab19-c2abae5cbe06</string>
+				<string>fe7f3d44-75dd-4bf3-a579-1b5e14038d9d</string>
 				<key>dateExpires</key>
-				<string>11.03.2026</string>
+				<string>12.03.2026</string>
 				<key>name</key>
 				<string>iOS Team Provisioning Profile: iediot.Weather</string>
 			</dict>

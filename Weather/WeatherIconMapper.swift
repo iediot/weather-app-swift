@@ -53,10 +53,23 @@ func seasonString() -> String {
 }
 
 func timeOfDay(current: Int, sunrise: Int, sunset: Int) -> String {
-    if current < sunrise || current > sunset {
+
+    if current < sunrise {
         return "Night"
+    }
+
+    let dayLength = sunset - sunrise
+    let noon = sunrise + dayLength / 2
+    let eveningStart = sunset - dayLength / 4
+
+    if current < noon {
+        return "Morning"
+    } else if current < eveningStart {
+        return "Afternoon"
+    } else if current < sunset {
+        return "Evening"
     } else {
-        return "Day"
+        return "Night"
     }
 }
 
